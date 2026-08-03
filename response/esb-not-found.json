@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "transaction_id": "DGPS260330145725632409708",
+    "channel": "i4",
+    "status_code": "40404",
+    "status_desc": "Service ID Not Found"
+  },
+  "data": {
+    "service_id": "{{SERVICE_ID}}",
+    "invoices": [],
+    "total_amount_invoices": 0
+  }
+}
